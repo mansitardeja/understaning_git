@@ -1,1 +1,2 @@
 hello this is the git guide .
+here you will understand how to upload a project on git .
