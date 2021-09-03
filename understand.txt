@@ -1,2 +1,0 @@
-hello this is the vs code + git guide 
-I am changing this file so that I can see as how to pull changes
